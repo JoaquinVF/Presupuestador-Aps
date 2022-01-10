@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Presupuesto Another Polite Studio</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            font-family: 'Montserrat', sans-serif;
+        }
+/*        main {
+            width: 90%;
+        }*/
+        .fecha {
+            text-align:left;
+        }
+        .identificador {
+            text-align:right;
+        }
+    </style>
+    <br />
+    <header>
+        <p class="fecha">
+            {fecha}
+        </p>
+        <p class="identificador">
+            Presupuesto N° {presupuesto}
+        </p>
+    </header>
+    <br />
+    <main>
+        <div style="width: 125px; height: 150px; margin: auto; padding-top: 50px;"><a href="https://anotherpolitestudio.com" target="_blank"> <img src="{imagen}" width="125" /></a></div>
+        <div style="background-color: #000; width:100%">
+            <p style="text-align: center;"><span style="color: #ffffff; font-size: 2rem; font-weight: 600;">CLIENTE / {cliente}</span></p>
+            <p style="text-align: center;"><span style="color: #ffffff; font-size: 2rem; font-weight: 600;">PROYECTO / {proyecto}</span></p>
+        </div>
+        <br />
+        <p>{contenido}</p>
+        <br />
+        <div style="width:100%; background-color:darkgray"><p style="color: #ffffff; font-size: 1.5rem; text-align: right;">Total: {monto} + IVA</p></div>
+        <br />
+        <div style="background-color: #000; width:100%">
+            <p style="text-align: center;"><span style="color: #ffffff; font-size: 1.6rem; font-weight: 600;">NOTAS</span></p>
+        </div>
+        <br />
+        <p>{condiciones}</p>
+        <p>{encabezado}</p>
+        <p>Monto: {monto}</p>
+        <p>Moneda: {moneda}</p>
+        <p>Entrega: {entrega}</p>
+        <p>Timming: {timming}</p>
+        <br />
+        <br />
+    </main>
+</body>
+</html>
