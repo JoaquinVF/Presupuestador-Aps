@@ -1,0 +1,64 @@
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\bin\Debug\Presupuestador.exe.config
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\bin\Debug\Presupuestador.exe
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\bin\Debug\Presupuestador.pdb
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\obj\Debug\Presupuestador.csproj.AssemblyReference.cache
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\obj\Debug\Presupuestador.Form1.resources
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\obj\Debug\Presupuestador.Properties.Resources.resources
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\obj\Debug\Presupuestador.csproj.GenerateResource.cache
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\obj\Debug\Presupuestador.csproj.CoreCompileInputs.cache
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\obj\Debug\Presupuestador.exe
+D:\Proyectos\INTERNO\Presupuestos\Presupuestador\obj\Debug\Presupuestador.pdb
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\Presupuestador.exe.config
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\Presupuestador.exe
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\Presupuestador.pdb
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.csproj.AssemblyReference.cache
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.Form1.resources
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.Properties.Resources.resources
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.csproj.GenerateResource.cache
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.csproj.CoreCompileInputs.cache
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.exe
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.pdb
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltoimage.exe
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltopdf.exe
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltox.dll
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\RtfPipe.dll
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.csproj.CopyComplete
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\css\estilos.css
+C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\css\Presupuesto_APS2.html
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\css\estilos.css
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\css\Presupuesto_APS2.html
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltoimage.exe
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltopdf.exe
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltox.dll
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\Presupuestador.exe.config
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\Presupuestador.exe
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\Presupuestador.pdb
+C:\Users\54116\Desktop\Repositorios\Presupuestador\bin\Debug\RtfPipe.dll
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.csproj.AssemblyReference.cache
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.csproj.SuggestedBindingRedirects.cache
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.Form1.resources
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.Properties.Resources.resources
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.csproj.GenerateResource.cache
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.csproj.CoreCompileInputs.cache
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.csproj.CopyComplete
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.exe
+C:\Users\54116\Desktop\Repositorios\Presupuestador\obj\Debug\Presupuestador.pdb
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\css\estilos.css
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\css\Presupuesto_APS2.html
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltoimage.exe
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltopdf.exe
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\wkhtmltopdf\bin\wkhtmltox.dll
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\Presupuestador.exe.config
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\Presupuestador.exe
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\Presupuestador.pdb
+C:\Users\Alma\Desktop\Presupuestador\bin\Debug\RtfPipe.dll
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.csproj.AssemblyReference.cache
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.Form1.resources
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.Properties.Resources.resources
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.csproj.GenerateResource.cache
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.csproj.CoreCompileInputs.cache
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.csproj.CopyComplete
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.exe
+C:\Users\Alma\Desktop\Presupuestador\obj\Debug\Presupuestador.pdb
+C:\Users\Owl Studio\source\repos\Presupuestador\obj\Debug\Presupuestador.csproj.SuggestedBindingRedirects.cache

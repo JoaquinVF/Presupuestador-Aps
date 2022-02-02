@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Presupuesto Another Polite Studio</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+            font-family: 'Raleway', sans-serif;
+            font-weight: 300;
+            font-size: 1rem;
+        }
+        :root{
+            --turquesa: #009086;
+            --gris: #4d4d4d;
+        }
+
+    </style>
+    <div>
+        <div>
+            <span style="width: 52px; height: 50px; background-color: #4d4d4d; position: absolute; left: 0; top: 0;">
+            </span> 
+            <p style="width: auto; padding: 7.5px 5px; background-color: #009086; position: absolute; left:50px; top: 0; font-size: 1.8rem; font-weight: 400;">
+                Presupuesto Nº {presupuesto}
+            </p>
+            <div style="padding: 3px; background-color: black; color: #009086; position: absolute; top: 0; right: 20px; font-size: 1.3rem;">
+                {fecha}
+            </div>
+        </div>
+        <div style="width: 100%; height: 2.5px; background-color: #009086; position: absolute; top: 53px; z-index: 2;"></div>
+        <div>
+            <span style="width: 50px; height: 45px; background-color: #4d4d4d; position: absolute; left: 0; top: 50px;">
+            </span>
+            <p style="width: 160px; padding: 5px; background-color: #009086; position: absolute; left:50px; top: 50px; font-size: 1.6rem; font-weight: 400;">
+                CLIENTE:
+            </p>
+            <p style="position: absolute; left:230px; top: 54px; font-size: 1.4rem;">{cliente}</p>
+        </div>
+        <div style="width: 100%; height: 2px; background-color: #009086; position: absolute; top: 94px; z-index: 2;"></div>
+        <div>
+            <span style="width: 50px; height: 46px; background-color: #4d4d4d; position: absolute; left: 0; top: 96px;">
+            </span>
+            <p style="width: 160px; padding: 5px; background-color: #009086; position: absolute; left:50px; top: 96px; font-size: 1.6rem; font-weight: 400;">
+                PROYECTO:
+            </p>
+            <p style="position: absolute; left:230px; top: 101px; font-size: 1.4rem;">{proyecto}</p>
+        </div>
+        <div style="width: 100%; height: 2.5px; background-color: #009086; position: absolute; top: 142px; z-index: 2;"></div>
+    </div>
+
+    <main style="width: 100%; position: absolute; top: 180px;">
+        <div style="font-size: 1.2rem; text-align: center; font-weight: 600;">{encabezado}</div>
+        <p style="text-align: left; margin-top: 50px;">{contenido}</p>
+
+        <div style= "width: fit-content; margin-top: 70px; position: relative; ;padding: 0 5px; background-color: #009086; font-size: 1.3rem; text-align: center;">Timming: {timming} Días Habiles</div>
+        <div style="width: 100%; height: 2px; background-color: #009086;"></div>
+        <div style="width: auto; margin-left: 460px; padding: 0 5px; background-color: #009086; font-size: 1.3rem; text-align: center;">Costo Total: $ {monto} + Impuestos</div>
+
+        <br><br>
+
+        <b style="font-size: 1.2rem; margin-top: 150px; position: relative; text-align: center; position: relative;">Condiciones:</b>
+        <p style="text-align: left; margin-top: 20px; margin-left: 20px;">{condiciones}</p>
+
+
+        <br><br>
+        <b style="text-align: left; position: relative; margin-top: 50px; font-weight: 600;">{notas}</b>
+        
+        <div>
+            <div style="margin-top: 400px; position: relative; bottom: 1px;">
+                <img src="C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\css\goodluck.jpg" style="position: absolute; bottom: 0; right: 0;" width="400" height="300" alt="Good Luck!">
+            </div>
+            <div style="width: 100%; height: 100px; background-color: #4d4d4d; display: inline-block;">
+                <img src="C:\Users\Owl Studio\source\repos\Presupuestador\bin\Debug\css\logo.jpg" style="display: inline;" width="125" height="100" alt="Owl">
+                <div style="background-color: black; color: #009086; font-size: 0.8rem; display: inline; position: relative; bottom:40px; padding: 10px 0;">
+                    Rocamora 4219 suit C // Buenos Aires // administracion@owlstudio.tv // +5491133271303 // WWW.OWLSTUDIO.TV 
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+:root{
+    --turquesa: #009086;
+    --gris: #4d4d4d;
+}
+header{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100px;
+}
+.bloque-oscuro{
+    background-color: #4d4d4d;
+    width: 100px;
+    height: 100%;
+}
+.titulos{
+    height: 100%;
+}
+.titulo-turquesa{
+    background-color: #009086;
+    position: relative; 
+    margin-bottom: 10px;
+    padding: 5px 2px;
+    width: auto;
+}

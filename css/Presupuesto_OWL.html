@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Presupuesto Another Polite Studio</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.2rem;
+        }
+        header{
+            margin: 0px;
+            padding: 0px;
+            width: 100vw;
+        }
+        .fila-contenedor{
+            border-bottom: 2px solid #009086;
+            display: flex;
+            width: 100%;
+        }
+        .coso-gris{
+            width: 50px;
+            height: auto;
+            background-color: #4d4d4d;
+        }
+        .turquesa{
+            background-color: #009086;
+            padding: 4px 5px;
+        }
+        .espacio{
+            width: 100%;
+        }
+        .fecha-container{
+            width: 100%;
+            display: flex;
+            justify-content: end;
+        }
+        .fecha{
+            color: #009086;
+            background-color: black;
+        }
+        section{
+            border-bottom: 2px solid #009086;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+        .divider ~ p {
+            margin-left: 50px;
+        }
+        .timming-container{
+            width: 100%;
+            display: flex;
+            justify-content: flex-end;
+        }
+        .right{
+            padding: 5px;
+            width: auto;
+            text-align: center;
+        }
+
+    </style>
+    <header>
+        <div class="fila-contenedor">
+            <div class="coso-gris">
+            </div>
+            <p class="turquesa">
+                Presupuesto Nº {presupuesto}
+            </p>
+            <div class="fecha-container">
+                <div class="fecha">
+                    {fecha}
+                </div>
+            </div>
+        </div>
+        <div class="fila-contenedor">   
+            <div class="coso-gris">
+            </div>
+            <p class="turquesa">
+                CLIENTE: 
+            </p>
+            <p class="espacio">
+                {cliente}
+            </p>
+        </div>
+        <div class="fila-contenedor">
+            <div class="coso-gris">
+            </div>
+            <p class="turquesa">
+                PROYECTO: 
+            </p>
+            <p class="espacio">
+                {proyecto}
+            </p>
+        </div>
+    </header>
+    <br />
+    <main>
+        <section class="divider">
+            <b style="text-align: center;">{encabezado}</b>
+            <p style="margin-left: 50px;">{contenido}</p>
+            <div class="timming-container">
+                <p class="turquesa right">Timming: {timming}</p>
+            </div>
+        </section>
+            <div class="timming-container">
+                <p class="turquesa right">Costo Total: $ {monto} + Impuestos</p>
+            </div>
+
+        <br />
+        </b>
+        <p>
+            <b>Condiciones:</b>
+            <br>
+            {condiciones}
+        </p>
+        <p>Entrega: {entrega}</p>
+
+        <br />
+        <br />
+    </main>
+</body>
+</html>
