@@ -82,7 +82,7 @@ namespace Presupuestador
             int i = comboBox1.SelectedIndex;
             if (i == 0)
             {
-                pictureBox1.Load("C:/Users/Owl Studio/source/repos/Presupuestador/Images/icon3.png");
+                pictureBox1.Load("./css/Images/icon3.png");
 
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
 
@@ -90,14 +90,14 @@ namespace Presupuestador
             }
             if (i == 1)
             {
-                pictureBox1.Load("C:/Users/Owl Studio/source/repos/Presupuestador/Images/icon1.png");
+                pictureBox1.Load("./css/Images/icon1.png");
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
 
                 //pictureBox1.Image = Properties.Resources.icon2; pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             }
             if (i == 2)
             {
-                pictureBox1.Load("C:/Users/Owl Studio/source/repos/Presupuestador/Images/icon2.jpg");
+                pictureBox1.Load("./css/Images/icon2.jpg");
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                 //pictureBox1.Image = Properties.Resources.icon3; pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             }
